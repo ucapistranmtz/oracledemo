@@ -1,0 +1,26 @@
+{
+  "name": "oracledemo",
+  "version": "1.0.0",
+  "description": "docker example",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucapistranmtz/oracledemo.git"
+  },
+  "keywords": [
+    "oracledb"
+  ],
+  "author": "ucapistranmt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ucapistranmtz/oracledemo/issues"
+  },
+  "homepage": "https://github.com/ucapistranmtz/oracledemo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
